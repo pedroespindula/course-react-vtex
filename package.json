@@ -1,0 +1,22 @@
+{
+  "name": "curso-react",
+  "version": "0.0.1",
+  "description": "Curso introdutorio de react",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "js",
+    "javascript",
+    "crash-course"
+  ],
+  "author": "Pedro Espíndula",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2",
+    "react-scripts": "^2.0.5"
+  }
+}
