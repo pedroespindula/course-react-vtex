@@ -1,0 +1,45 @@
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.product-summary {
+  position: relative;
+  border: 1px lightgrey solid;
+  border-radius: 5px;
+  width: 275px;
+  height: 455px;
+  margin: 5px 30px;
+  padding: 0;
+}
+
+.price {
+  font-weight: bold;
+  font-size: 1.5em;
+  display: block;
+  text-align: center;
+  margin: 20px;
+}
+
+.name {
+  display: block;
+  text-align: center;
+}
+
+.button {
+  display: block;
+  color: white;
+  margin: 1px;
+  width: 100%;
+  border-radius: 0;
+  padding: 10px;
+  background-color: #f91d46;
+}
+
+.img-container {
+  height: 320px;
+}
+
+.product-img {
+}
